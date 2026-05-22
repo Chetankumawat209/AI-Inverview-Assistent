@@ -1,0 +1,8 @@
+Tell me about yourself
+What is Python?
+Explain OOPS concepts
+What is Machine Learning?
+Difference between list and tuple
+What is the difference between `==` and `is`?
+What is a context manager?
+What is the `yield` keyword?
