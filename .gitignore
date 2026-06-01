@@ -4,3 +4,4 @@ zgemini_test.py
 .venv
 __pycache__
 tempCodeRunnerFile.py
+.test_file.py

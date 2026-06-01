@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 
 
-def generate_response(prompt,temperature=0.7):
+def generate_response(prompt):
     
     load_dotenv()
     try:
